@@ -19834,6 +19834,22 @@
       }
     },
     {
+      "vendor": "Telemetry Tracker",
+      "category": "Error Tracking",
+      "description": "Hosted Free plan, €0 forever with no credit card: 250K ingest units a month (one unit is one error, event or session), 14-day retention, 1 project and 2 API keys. At the cap new ingest is rejected with HTTP 429 until the next calendar month, with no overage charge. Grouped errors, source maps, releases and alerts for JavaScript and TypeScript apps. MIT-licensed and self-hostable.",
+      "tier": "Free",
+      "url": "https://telemetry-tracker.com/pricing",
+      "tags": [
+        "error-tracking",
+        "monitoring",
+        "open-source",
+        "self-hosted",
+        "source-maps",
+        "free tier"
+      ],
+      "verifiedDate": "2026-10-19"
+    },
+    {
       "vendor": "bonsai.io",
       "category": "Search",
       "description": "Free Sandbox plan: 125 MB memory, 125 MB storage, 35K documents. Free forever. Managed Elasticsearch.",
